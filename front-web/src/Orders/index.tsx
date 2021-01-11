@@ -8,7 +8,7 @@ import OrderLocation from './OrderLocation';
 import OrderSummary from './OrderSummary';
 import Footer from '../Footer';
 import { checkIsSelected } from "./helpers";
-import { ToastContainer, toast } from 'react-toastify';
+import { toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 
 
